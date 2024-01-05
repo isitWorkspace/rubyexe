@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [isitWorkspace/rubyexe](https://github.com/isitWorkspace/rubyexe)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|01/02/24 <br/>Report generated|
+|17<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -144,7 +144,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (5)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (6)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (4)
 
@@ -156,10 +156,11 @@ Full tech stack [here](/techstack.md)
 |[simplecov](https://rubygems.org/simplecov)|v0.21.2|02/12/21|Jeremy Walker |MIT|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (1)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (2)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[husky](https://www.npmjs.com/husky)|v4.3.8|02/06/21|Jeremy Walker |MIT|N/A|
 |[pretty-quick](https://www.npmjs.com/pretty-quick)|v2.0.2|02/06/21|Jeremy Walker |MIT|N/A|
 
 <br/>
